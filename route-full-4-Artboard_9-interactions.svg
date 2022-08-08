@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny" id="g-route-full-4-Artboard_9-interactions-img" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 480 316.192" overflow="visible" xml:space="preserve">
+<g>
+	<g id="Legend_00000098216610052575186140000012648487258623284615_">
+		<path fill="#333333" d="M14.737,295.609c2.552,2.211,4.534,3.912,5.945,5.101c0.159,0.127,0.238,0.285,0.238,0.476
+			c0,0.166-0.059,0.313-0.178,0.44c-0.119,0.127-0.262,0.186-0.428,0.178h-1.248v4.328c0,0.166-0.059,0.313-0.178,0.44
+			c-0.119,0.127-0.262,0.19-0.428,0.19h-1.855c-0.174,0-0.321-0.063-0.44-0.19c-0.119-0.127-0.182-0.273-0.19-0.44v-2.473h-2.485
+			v2.473c0,0.166-0.059,0.313-0.178,0.44s-0.262,0.19-0.428,0.19h-1.855c-0.166,0-0.313-0.063-0.44-0.19s-0.19-0.273-0.19-0.44
+			v-4.328H9.173c-0.174,0-0.321-0.059-0.44-0.178c-0.119-0.119-0.182-0.266-0.19-0.44c-0.008-0.174,0.067-0.333,0.226-0.476
+			L14.737,295.609z"/>
+		<path fill="#E23E2E" stroke="#E23E2E" stroke-width="0.022" stroke-miterlimit="10" d="M123.622,300.482h11.404v1.439h-11.404
+			V300.482z"/>
+		<path fill-opacity="0.2" stroke="#888888" stroke-width="2" d="M238.061,295.264h11.862v11.862h-11.862V295.264z"/>
+		<path fill="#333333" d="M425.214,300.962c0,2.462-1.996,4.459-4.459,4.459s-4.459-1.996-4.459-4.459
+			c0-2.462,1.996-4.459,4.459-4.459S425.214,298.5,425.214,300.962z"/>
+	</g>
+	<g id="Routes_00000039841544185572684100000010349137530969728943_">
+		
+			<path id="Route_1_00000057133621148800604200000006853984020159356306_" fill="none" stroke="#E23E2E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2,4" d="
+			M427.857,62.618l0.176,0.376l0.352,1.128l0.764,1.805l1.175,2.859l1.175,2.859l-6.874,2.783l-4.406,1.73l-2.526,0.978l1.058,2.934
+			l1.175,2.783l1.116,3.009l0.999,2.783l1.116,3.009l0.823,2.558l0.881,2.558l-0.117,1.053l-0.353,1.504l-0.411,1.58l-0.235,0.903
+			l-0.294,0.978l-0.235,1.429l-0.47,1.956l-0.118,0.451l-0.529,1.881l-0.94,3.385l-0.823,2.783l-0.529,2.181l-0.823,3.234
+			l-2.233,8.349l-1.234,4.964l-0.176,1.655v1.203l0.059,0.15l0.117,1.354l0.059,0.226l0.176,1.128v0.075l0.059,1.128l0.059,1.429
+			l-0.059,1.429l-0.999,3.836l-1.058,3.911l-1.939,7.145l-0.999,3.911l-1.116,4.062l-1.058,4.062l-1.116,3.685l-0.411,1.053
+			l-0.47,0.752l-0.999,1.805l-0.529,0.677l-0.529,0.451l-0.47,0.451l-0.94,0.827v0.075l-0.529,0.602l-0.646,0.827l-0.235,0.451
+			l-0.294,0.451l-0.999,1.73l-0.705,2.632l-0.411,1.73l-1.116,4.061l-0.059,0.226l-0.705,2.632l-0.47,1.805l-0.705,2.783
+			l-2.761-0.752l-1.116-0.301l-0.47-0.15l-3.701-0.902l-7.932-2.106l-0.411-0.15l-2.938-0.752l-4.759-1.279l-0.646,2.632"/>
+		
+			<path id="Route_2_00000134249492871452402440000015966077766494234260_" fill="none" stroke="#E23E2E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2,4" d="
+			M427.857,62.618l-0.117-0.301l-6.933,2.708l-3.701,1.505l-3.114,1.204l-3.466,1.354l-3.055,1.204l-0.881,0.451l-2.585,0.903
+			l-2.82,1.053l-4.054,1.655l-1.41,0.527h-0.176h-0.117l-9.988-2.708l-0.999,3.761l-0.881,3.235l-0.705,2.558v0.301v0.301
+			l0.176,0.376l-1.175,4.739l-1.175,3.987l-0.294,1.204l-2.82,10.531l-2.703-0.677l-2.468-0.677l-0.764-0.15l-3.878-1.053
+			l-1.704-0.451l-5.405-1.429l-9.165-2.482l-11.045-3.084l-6.58-1.655l-1.293-0.376l-3.349-0.827l-1.293-0.376l-2.233-0.677
+			l-2.879-0.752l-3.055-0.827l-1.116-0.301l-3.76-1.128l-10.164-2.633l-10.223-2.783l-10.634-2.859l-2.996-0.752l-10.458-2.783
+			l-4.113-1.128l-10.105-2.708l-1.88-0.527l-0.235-0.075l-0.646-0.376l-5.053-2.783l-2.938-1.73l-2.526,5.717l-0.646,1.354
+			l-1.821,4.062l-1.058,2.182l-1.175,2.558l-0.646,1.429l-0.94,2.332l-2.585,6.018l-3.173-1.805l-0.47-0.301l-9.753-5.567
+			l-0.588,1.128l-0.294,0.527l-0.294,0.451l-0.294,0.451l-0.823,0.903l-0.529,0.301l-0.529,0.376l-0.999,0.527l-1.939,0.903
+			l-1.528,0.752"/>
+		
+			<path id="Route_3_00000157267757719205309990000007925241191619161521_" fill="none" stroke="#E23E2E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2,4" d="
+			M212.823,89.398l-1.175,0.677l-1.645,0.752l-1.175-0.602l-1.175-0.677l-4.759-2.633l-0.705-0.376l-1.645-0.978l-0.705-0.451
+			l-1.645-0.903l-3.525-1.956l-1.175-0.677l-0.705-0.451l-0.47-0.226l-3.525-1.956l-0.294,0.527l-1.175,1.956l-0.47,0.903
+			l-0.823,1.58l-1.116,2.031l-0.646,1.053l-0.411,0.752l-1.116,1.956l-1.234,2.257l-0.411,0.752l-0.999,1.805l-1.939,3.535
+			l-1.88,3.46l-1.939,3.46l-1.939,3.535l-1.645,3.159l-1.116,1.956l-1.939,3.611l-1.939,3.535l-1.645,3.009l-0.176,0.376
+			l-1.704,3.084l-0.176,0.301l-1.41,2.407l-0.235,0.376l-0.294,0.451l-0.411,0.752l-0.235,0.376l-1.116,2.031v0.075l-0.529,0.752
+			l-1.116-0.376l-0.47-0.15l-1.058-0.226h-0.118l-0.529-0.15l-1.998-0.527l-0.588-0.15l-1.939-0.527l-1.528-0.451l-1.586-0.376
+			l-3.525-0.978l-1.939-0.527l-0.588-0.15l-0.588-0.15l-1.998-0.527l-0.881-0.226l-3.995-1.053l-1.116-0.301l-0.588-0.15
+			l-0.705-0.226l-1.763-0.451l-2.468-0.677l-1.058-0.301l-1.821-0.451l-1.116-0.301l-2.35-0.677l-2.82-0.752l-3.114-0.827
+			l-2.291-0.527l-4.23-1.204l-3.936-1.053l-0.764-0.15l-2.35-0.677l-1.41,5.566l-1.41,5.19l-1.351,5.265l-0.235,0.903l-1.058,3.911
+			l-0.118,0.451l-0.176,0.677l-0.999,3.836l-1.234,4.663l-0.411,1.279l-0.705,3.009l-0.47,1.73l-1.234,4.588l-0.411,1.429
+			l-0.059,0.226l-0.176,0.752l-0.059,0.226l-0.235,0.752l-0.059,0.226l-0.235,0.827l-0.059,0.226l-0.176,0.827l-0.059,0.15
+			l-0.235,0.752l-0.059,0.301l-0.294,1.053l-0.353,1.279l-0.294,0.903l-0.176,0.752l-0.176,0.451l-0.059,0.451l-0.294,1.053
+			l-0.118,0.602v0.226l-0.059,0.301v0.602l0.059,0.752l0.059,0.752l0.176,0.602l0.235,0.602l0.235,0.602l0.235,0.451l0.411,0.677
+			l0.646,0.903l-0.529,1.88l-0.705,2.557l-0.235,0.827l-0.823,3.084l-0.235,0.978l-0.411,1.579l-0.235,0.903l-0.176,0.677
+			l-0.411,1.504v0.075l-0.059,0.15v0.075v0.075l-0.235,0.752l-0.118,0.526l-0.059,0.075l-0.294,1.203l-0.529,2.031l-0.999,3.46
+			l-0.705,2.708l-0.881,3.46l-0.999,3.535l-0.94,3.384v0.451l-0.059,0.301v0.226l0.059,0.301l0.176,1.429l0.588,3.234l-4.876,0.827
+			l-6.992,1.203l-3.76,0.677l-3.29,0.602l-5.464,0.902l-1.939,0.376l-1.821,0.301l-3.408,0.752l0.588,3.309l0.529,3.309l0.529,3.309
+			l0.588,3.309l1.058,6.618"/>
+		
+			<path id="Route_4_00000116948863523564316140000011804156119165511569_" fill="none" stroke="#E23E2E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2,4" d="
+			M371.572,196.056l-0.705,2.858l-0.353,1.279l-1.293,4.512l-0.47-0.15l-4.289-1.203l-0.764-0.226l-2.056-0.526l-0.294,0.978
+			l-0.588,3.46l-1.116,4.437l-1.116,4.512l-0.117,0.677v0.075l-0.235,0.902l-0.059,0.451L358,218.543l-0.059,0.602l-0.059,0.451
+			v0.526l-0.059,0.677l-0.118,0.602l-0.117,0.827l-0.059,0.301l-0.117,0.526l-0.353,1.429l-0.176,0.677l-0.176,0.752l-0.117,0.451
+			l-0.294,1.128l-0.764,2.632l-0.47,1.504l-0.705,2.482l-0.47,1.429l-0.353,1.354l-0.411,1.278l-0.059,0.451l-0.118,0.451
+			l-0.176,0.752v0.075l-0.059,0.301l-0.235,1.053l-0.059,0.15v0.075l-0.294,1.053l-0.47,1.805l-0.176,0.752l-0.176,0.602
+			l-0.118,0.526l-0.235,0.752l-0.235,0.902l-0.117,0.376l-0.353,1.354l-0.117,0.526l-0.235,0.752l-0.705,2.632l-0.646,2.331
+			l-0.353,1.278l-0.411,1.805l0.059,1.128l-0.176,0.827l-0.059,0.451l-0.059,0.602l-0.059,0.526v0.451v0.677l0.118,0.752
+			l0.059,0.451v0.226l0.059,0.376l0.059,0.226l0.059,0.301l0.117,0.376l0.118,0.301l0.117,0.301v0.075l0.176,0.526l0.235,0.752
+			l0.294,1.053l0.117,0.526l0.881,2.632l1.058,3.309l0.294,1.128l-0.823-0.15l-1.116-0.376l-1.234-0.376l-1.763-0.301l-3.525-0.978
+			l-0.94-0.226l-3.114-0.902l-1.469-0.451l-3.995-1.053l-3.643-0.978l-0.705-0.15l-1.293-0.301l-1.351-0.376l-7.579-1.955
+			l-6.815-1.88l-2.585-0.752l-0.94-0.226l-2.644-0.677l-1.645-0.451l-2.585-0.752l-2.761-0.677l-4.818-1.354l-4.583-1.203
+			l-0.94-0.301l-7.344-1.88l-4.524-1.128l-1.234-0.376l-5.229-1.354l-3.466-0.978l-1.528-0.376l-4.524-1.203l-3.936-1.053
+			l-4.641-1.278l-4.935-1.278l-3.936-1.053l-8.695-2.331l-2.174-0.602l-1.88-0.526l-0.823-0.226l-1.116-0.301l-3.819-1.053
+			l-2.761-0.677l-7.168-1.805l-0.823-0.226l-6.58-1.73l-0.764-0.301l-2.468-0.602l-5.229-1.429l-0.823-0.226l-7.05-1.88
+			l-4.994-1.203l-1.175-0.301l-1.88-0.526l-0.764-0.15l-4.7-1.354l-7.873-2.106l-5.816-1.579l-0.529-0.075l-0.999-0.226
+			l-1.939-0.602l-2.703-0.827l-1.234-0.301l-2.996-0.752l-2.644-0.677l-2.82-0.752l-0.588-0.15l-3.349-0.902l-5.229-1.429
+			l-1.293-0.301l-1.351-0.376l-1.175-0.301l-1.41-0.376l-0.823-0.226l-0.881-0.226l-0.646-0.226l-0.646-0.15l-2.644-0.677
+			l-2.82-0.752l-1.939-0.602l-0.705-0.15l-0.881-0.226l-0.881-0.15l-2.468-0.376l-0.646,0.15l-1.351,0.15l-0.999,0.15l-0.705,0.15
+			l-0.94,0.075l-3.349,0.526l-1.469,0.226l-1.821,0.301l-3.701,0.752l-2.291,0.376l-2.585,0.526l-1.351,0.226l-1.998,0.376
+			l-3.701,0.526l-1.41,0.226l-2.468,0.451l-3.936,0.677l-3.701,0.677l-4.876,0.827l-6.992,1.203l-3.76,0.677l-3.29,0.602
+			l-5.464,0.902l-1.939,0.376l-1.821,0.301l-3.408,0.752l0.588,3.309l0.529,3.309l0.529,3.309l0.588,3.309l1.058,6.618"/>
+	</g>
+	<g id="Home_00000090986360851968038810000009737910050340719804_">
+		<path fill="#333333" d="M371.131,190.531c2.552,2.211,4.534,3.912,5.945,5.101c0.159,0.127,0.238,0.285,0.238,0.476
+			c0,0.166-0.059,0.313-0.178,0.44c-0.119,0.127-0.262,0.186-0.428,0.178h-1.248v4.328c0,0.166-0.059,0.313-0.178,0.44
+			c-0.119,0.127-0.262,0.19-0.428,0.19h-1.855c-0.174,0-0.321-0.063-0.44-0.19c-0.119-0.127-0.182-0.273-0.19-0.44v-2.473h-2.485
+			v2.473c0,0.166-0.059,0.313-0.178,0.44c-0.119,0.127-0.262,0.19-0.428,0.19h-1.855c-0.166,0-0.313-0.063-0.44-0.19
+			c-0.127-0.127-0.19-0.273-0.19-0.44v-4.328h-1.225c-0.174,0-0.321-0.059-0.44-0.178c-0.119-0.119-0.182-0.266-0.19-0.44
+			c-0.008-0.174,0.067-0.333,0.226-0.476L371.131,190.531z"/>
+	</g>
+	<g id="Old_North_St._Louis_neighborhood_00000039813525792242529830000009262936990038020285_">
+		<g id="Old_North_St._Louis_boundary_00000103960458364067807840000012476613420870504339_">
+			<path id="m12_00000008832955293197678810000011906102488368948633_" fill-opacity="0.2" d="M429.339,18.199l3.572,9.179
+				l1.855,4.656l6.414,16.478l6.228,15.9l3.578,9.057l4.294,10.826l3.175,8.127l3.492,8.622l2.595,6.281l1.443,3.616l2.749,6.82
+				l2.552,6.178l1.749,3.7l0.66,1.4l-0.971-0.26l-39.838-10.68l0.955-3.639l0.448-1.832l-0.248-2.14l-0.625-1.646l-1.457-2.105
+				l-2.279-1.157l-3.264-0.98l-3.05-0.873l-1.31-0.867l-1.503-1.057l-1.23-1.247l-1.788-2.429l-0.492-1.441l-0.393-2.516
+				l-0.663-1.638l-1.485-4.076l-6.997-18.01l-12.675-31.794l-3.746-8.422l-2.817-6.219l-4.364-9.348l-4.377-8.939l-0.903-1.157
+				l2.264,0.397l20.969,5.735l18.745,5.168l4.121,1.098L429.339,18.199z"/>
+			
+				<path id="m12extraline_00000173126932572995096300000011193397189194066574_" fill="none" stroke="#888888" stroke-linecap="round" stroke-linejoin="round" d="
+				M429.339,18.199l3.572,9.179l1.855,4.656l6.414,16.478l6.228,15.9l3.578,9.057l4.294,10.826l3.175,8.127l3.492,8.622l2.595,6.281
+				l1.443,3.616l2.749,6.82l2.552,6.178l1.749,3.7l0.66,1.4l-0.971-0.26l-39.838-10.68l0.955-3.639l0.448-1.832l-0.248-2.14
+				l-0.625-1.646l-1.457-2.105l-2.279-1.157l-3.264-0.98l-3.05-0.873l-1.31-0.867l-1.503-1.057l-1.23-1.247l-1.788-2.429
+				l-0.492-1.441l-0.393-2.516l-0.663-1.638l-1.485-4.076l-6.997-18.01l-12.675-31.794l-3.746-8.422l-2.817-6.219l-4.364-9.348
+				l-4.377-8.939l-0.903-1.157l2.264,0.397l20.969,5.735l18.745,5.168l4.121,1.098L429.339,18.199z"/>
+		</g>
+		<g id="Old_North_St._Louis_label_00000155141235574434847800000010094551230097896356_">
+			<g display="none">
+				<text transform="matrix(1 0 0 1 368.4403 83.036)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">O</text>
+				<text transform="matrix(1 0 0 1 376.6727 83.036)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">l</text>
+				<text transform="matrix(1 0 0 1 379.8192 83.036)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">d</text>
+				<text transform="matrix(1 0 0 1 386.4579 83.036)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px"> </text>
+				<text transform="matrix(1 0 0 1 389.8798 83.036)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">N</text>
+				<text transform="matrix(1 0 0 1 398.1122 83.036)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">o</text>
+				<text transform="matrix(1 0 0 1 404.5341 83.036)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">r</text>
+				<text transform="matrix(1 0 0 1 409.4735 83.036)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">t</text>
+				<text transform="matrix(1 0 0 1 413.7919 83.036)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">h</text>
+				<text transform="matrix(1 0 0 1 420.4305 83.036)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px"> </text>
+				<text transform="matrix(1 0 0 1 423.8524 83.036)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">S</text>
+				<text transform="matrix(1 0 0 1 431.1005 83.036)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">t</text>
+				<text transform="matrix(1 0 0 1 435.4188 83.036)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">.</text>
+				<text transform="matrix(1 0 0 1 438.8407 83.036)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px"> </text>
+				<text transform="matrix(1 0 0 1 442.2626 83.036)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">L</text>
+				<text transform="matrix(1 0 0 1 448.6024 83.036)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">o</text>
+				<text transform="matrix(1 0 0 1 455.0243 83.036)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">u</text>
+				<text transform="matrix(1 0 0 1 461.663 83.036)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">i</text>
+				<text transform="matrix(1 0 0 1 464.8094 83.036)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">s</text>
+			</g>
+			
+				<text transform="matrix(1 0 0 1 392.4403 83.036)" display="none" fill="none" stroke="#F2F3F0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" font-family="'ArialMT'" font-size="8.3227px">Old North St. Louis</text>
+			<text transform="matrix(1 0 0 1 392.4403 83.036)" display="none" fill="#333333" font-family="'ArialMT'" font-size="8.3227px">Old North St. Louis</text>
+		</g>
+		<g id="Old_North_St._Louis_points_00000183957968383238043720000013388071435411306384_">
+			<path id="Rise_Up_As_One_point_00000173149662166308701590000000969660122974167710_" fill="#333333" d="M416.895,44.516
+				c0,2.955-2.395,5.35-5.35,5.35s-5.35-2.395-5.35-5.35c0-2.955,2.395-5.35,5.35-5.35S416.895,41.561,416.895,44.516z"/>
+			<g display="none">
+				<text transform="matrix(1 0 0 1 381.9452 60.8641)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">R</text>
+				<text transform="matrix(1 0 0 1 387.2645 60.8641)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">i</text>
+				<text transform="matrix(1 0 0 1 389.1786 60.8641)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">s</text>
+				<text transform="matrix(1 0 0 1 392.9418 60.8641)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">e</text>
+				<text transform="matrix(1 0 0 1 397.2538 60.8641)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px"> </text>
+				<text transform="matrix(1 0 0 1 399.6268 60.8641)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">U</text>
+				<text transform="matrix(1 0 0 1 405.0599 60.8641)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">p</text>
+				<text transform="matrix(1 0 0 1 409.4696 60.8641)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px"> </text>
+				<text transform="matrix(1 0 0 1 411.4281 60.8641)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">A</text>
+				<text transform="matrix(1 0 0 1 416.1708 60.8641)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">s</text>
+				<text transform="matrix(1 0 0 1 419.9335 60.8641)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px"> </text>
+				<text transform="matrix(1 0 0 1 422.059 60.8641)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">O</text>
+				<text transform="matrix(1 0 0 1 427.5858 60.8641)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">n</text>
+				<text transform="matrix(1 0 0 1 432.0477 60.8641)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">e</text>
+			</g>
+			<g display="none">
+				
+					<text transform="matrix(1 0 0 1 381.9452 60.8641)" display="inline" fill="none" stroke="#F2F3F0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" font-family="'ArialMT'" font-size="8.3227px">R</text>
+				
+					<text transform="matrix(1 0 0 1 387.9554 60.8641)" display="inline" fill="none" stroke="#F2F3F0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" font-family="'ArialMT'" font-size="8.3227px">i</text>
+				
+					<text transform="matrix(1 0 0 1 389.8046 60.8641)" display="inline" fill="none" stroke="#F2F3F0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" font-family="'ArialMT'" font-size="8.3227px">s</text>
+				
+					<text transform="matrix(1 0 0 1 393.9657 60.8641)" display="inline" fill="none" stroke="#F2F3F0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" font-family="'ArialMT'" font-size="8.3227px">e</text>
+				
+					<text transform="matrix(1 0 0 1 398.5946 60.8641)" display="inline" fill="none" stroke="#F2F3F0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" font-family="'ArialMT'" font-size="8.3227px"> </text>
+				
+					<text transform="matrix(1 0 0 1 400.9071 60.8641)" display="inline" fill="none" stroke="#F2F3F0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" font-family="'ArialMT'" font-size="8.3227px">U</text>
+				
+					<text transform="matrix(1 0 0 1 406.9174 60.8641)" display="inline" fill="none" stroke="#F2F3F0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" font-family="'ArialMT'" font-size="8.3227px">p</text>
+				
+					<text transform="matrix(1 0 0 1 411.5458 60.8641)" display="inline" fill="none" stroke="#F2F3F0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" font-family="'ArialMT'" font-size="8.3227px"> </text>
+				
+					<text transform="matrix(1 0 0 1 413.3993 60.8641)" display="inline" fill="none" stroke="#F2F3F0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" font-family="'ArialMT'" font-size="8.3227px">A</text>
+				
+					<text transform="matrix(1 0 0 1 418.9501 60.8641)" display="inline" fill="none" stroke="#F2F3F0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" font-family="'ArialMT'" font-size="8.3227px">s</text>
+				
+					<text transform="matrix(1 0 0 1 423.1117 60.8641)" display="inline" fill="none" stroke="#F2F3F0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" font-family="'ArialMT'" font-size="8.3227px"> </text>
+				
+					<text transform="matrix(1 0 0 1 425.4237 60.8641)" display="inline" fill="none" stroke="#F2F3F0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" font-family="'ArialMT'" font-size="8.3227px">O</text>
+				
+					<text transform="matrix(1 0 0 1 431.8973 60.8641)" display="inline" fill="none" stroke="#F2F3F0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" font-family="'ArialMT'" font-size="8.3227px">n</text>
+				
+					<text transform="matrix(1 0 0 1 436.5262 60.8641)" display="inline" fill="none" stroke="#F2F3F0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" font-family="'ArialMT'" font-size="8.3227px">e</text>
+			</g>
+			<g display="none">
+				
+					<text transform="matrix(1 0 0 1 381.9452 60.8641)" display="inline" fill="#333333" font-family="'ArialMT'" font-size="8.3227px">R</text>
+				
+					<text transform="matrix(1 0 0 1 387.9554 60.8641)" display="inline" fill="#333333" font-family="'ArialMT'" font-size="8.3227px">i</text>
+				
+					<text transform="matrix(1 0 0 1 389.8046 60.8641)" display="inline" fill="#333333" font-family="'ArialMT'" font-size="8.3227px">s</text>
+				
+					<text transform="matrix(1 0 0 1 393.9657 60.8641)" display="inline" fill="#333333" font-family="'ArialMT'" font-size="8.3227px">e</text>
+				
+					<text transform="matrix(1 0 0 1 398.5946 60.8641)" display="inline" fill="#333333" font-family="'ArialMT'" font-size="8.3227px"> </text>
+				
+					<text transform="matrix(1 0 0 1 400.9071 60.8641)" display="inline" fill="#333333" font-family="'ArialMT'" font-size="8.3227px">U</text>
+				
+					<text transform="matrix(1 0 0 1 406.9174 60.8641)" display="inline" fill="#333333" font-family="'ArialMT'" font-size="8.3227px">p</text>
+				
+					<text transform="matrix(1 0 0 1 411.5458 60.8641)" display="inline" fill="#333333" font-family="'ArialMT'" font-size="8.3227px"> </text>
+				
+					<text transform="matrix(1 0 0 1 413.3993 60.8641)" display="inline" fill="#333333" font-family="'ArialMT'" font-size="8.3227px">A</text>
+				
+					<text transform="matrix(1 0 0 1 418.9501 60.8641)" display="inline" fill="#333333" font-family="'ArialMT'" font-size="8.3227px">s</text>
+				
+					<text transform="matrix(1 0 0 1 423.1117 60.8641)" display="inline" fill="#333333" font-family="'ArialMT'" font-size="8.3227px"> </text>
+				
+					<text transform="matrix(1 0 0 1 425.4237 60.8641)" display="inline" fill="#333333" font-family="'ArialMT'" font-size="8.3227px">O</text>
+				
+					<text transform="matrix(1 0 0 1 431.8973 60.8641)" display="inline" fill="#333333" font-family="'ArialMT'" font-size="8.3227px">n</text>
+				
+					<text transform="matrix(1 0 0 1 436.5262 60.8641)" display="inline" fill="#333333" font-family="'ArialMT'" font-size="8.3227px">e</text>
+			</g>
+			<path fill="#333333" d="M414.518,68.889c0,2.955-2.395,5.35-5.35,5.35c-2.955,0-5.35-2.395-5.35-5.35
+				c0-2.955,2.395-5.35,5.35-5.35C412.122,63.539,414.518,65.934,414.518,68.889z"/>
+			<path fill="#333333" d="M418.679,49.866c0,2.955-2.395,5.35-5.35,5.35c-2.955,0-5.35-2.395-5.35-5.35
+				c0-2.955,2.395-5.35,5.35-5.35C416.284,44.516,418.679,46.911,418.679,49.866z"/>
+			<path fill="#333333" d="M413.329,33.815c0,2.955-2.395,5.35-5.35,5.35s-5.35-2.395-5.35-5.35s2.395-5.35,5.35-5.35
+				S413.329,30.86,413.329,33.815z"/>
+			<path fill="#333333" d="M420.462,48.677c0,2.955-2.395,5.35-5.35,5.35s-5.35-2.395-5.35-5.35s2.395-5.35,5.35-5.35
+				S420.462,45.722,420.462,48.677z"/>
+		</g>
+		<g id="Neighborhood_1_00000160897859658179936040000000310441023508059549_">
+			<path fill="#E23E2E" d="M435.443,62.944c0,4.334-3.513,7.847-7.847,7.847c-4.334,0-7.847-3.513-7.847-7.847
+				s3.513-7.847,7.847-7.847C431.93,55.097,435.443,58.611,435.443,62.944z"/>
+			
+				<text transform="matrix(1 0 0 1 424.2821 67.2772)" display="none" fill="#FFFFFF" font-family="'NYTFranklin-Bold'" font-size="12px">1</text>
+		</g>
+	</g>
+	<g id="Covenant_Blu_Grand_Center_neighborhood_00000003078641009161924800000014613581719369622662_">
+		<g id="Covenant_Blu_Grand_Center_boundary_00000136376009938628005560000008391998569718027138_">
+			<path id="m13_00000093142087998004597540000009779706079598918555_" fill-opacity="0.2" d="M255.15,132.322l-7.191,26.467
+				l-13.861-3.802l-2.491-0.933l-2.666-0.554l-9.947-2.716l-60.894-16.064l18.119-33.209l31.758-57.206l16.045,8.954l1.114,0.627
+				l1.53,2.649l20.787,30.003l2.537,3.54l5.581,7.51l2.026,1.796l-0.513,0.313l0.103,25.706L255.15,132.322z"/>
+			
+				<path id="m13extraline_00000163781603396434607040000001465648524415473341_" fill="none" stroke="#888888" stroke-linecap="round" stroke-linejoin="round" d="
+				M255.15,132.322l-7.191,26.467l-13.861-3.802l-2.491-0.933l-2.666-0.554l-9.947-2.716l-60.894-16.064l18.119-33.209
+				l31.758-57.206l16.045,8.954l1.114,0.627l1.53,2.649l20.787,30.003l2.537,3.54l5.581,7.51l2.026,1.796l-0.513,0.313l0.103,25.706
+				L255.15,132.322z"/>
+		</g>
+		<g id="Covenant_Blu_Grand_Center_label_00000120544119466562426320000017845580134430979244_">
+			<g display="none">
+				<text transform="matrix(1 0 0 1 161.0428 109.788)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">C</text>
+				<text transform="matrix(1 0 0 1 168.6483 109.788)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">o</text>
+				<text transform="matrix(1 0 0 1 175.0702 109.788)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">v</text>
+				<text transform="matrix(1 0 0 1 180.9003 109.788)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">e</text>
+				<text transform="matrix(1 0 0 1 187.1288 109.788)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">n</text>
+				<text transform="matrix(1 0 0 1 193.7674 109.788)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">a</text>
+				<text transform="matrix(1 0 0 1 199.9491 109.788)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">n</text>
+				<text transform="matrix(1 0 0 1 206.5878 109.788)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">t</text>
+				<text transform="matrix(1 0 0 1 210.9061 109.788)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px"> </text>
+				<text transform="matrix(1 0 0 1 214.328 109.788)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">B</text>
+				<text transform="matrix(1 0 0 1 222.0682 109.788)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">l</text>
+				<text transform="matrix(1 0 0 1 225.2147 109.788)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">u</text>
+				<text transform="matrix(1 0 0 1 231.8534 109.788)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px"> </text>
+				<text transform="matrix(1 0 0 1 234.9178 109.788)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">G</text>
+				<text transform="matrix(1 0 0 1 242.91 109.788)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">r</text>
+				<text transform="matrix(1 0 0 1 247.5331 109.788)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">a</text>
+				<text transform="matrix(1 0 0 1 253.7147 109.788)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">n</text>
+				<text transform="matrix(1 0 0 1 260.3534 109.788)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">d</text>
+				<text transform="matrix(1 0 0 1 266.9921 109.788)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px"> </text>
+				<text transform="matrix(1 0 0 1 270.0565 109.788)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">C</text>
+				<text transform="matrix(1 0 0 1 277.662 109.788)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">e</text>
+				<text transform="matrix(1 0 0 1 283.8905 109.788)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">n</text>
+				<text transform="matrix(1 0 0 1 290.5292 109.788)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">t</text>
+				<text transform="matrix(1 0 0 1 294.8475 109.788)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">e</text>
+				<text transform="matrix(1 0 0 1 301.076 109.788)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">r</text>
+			</g>
+			
+				<text transform="matrix(1 0 0 1 161.0428 109.788)" display="none" fill="none" stroke="#F2F3F0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" font-family="'ArialMT'" font-size="8.3227px">Covenant Blu Grand Center</text>
+			
+				<text transform="matrix(1 0 0 1 161.0428 109.788)" display="none" fill="#333333" font-family="'ArialMT'" font-size="8.3227px">Covenant Blu Grand Center</text>
+		</g>
+		<g id="Covenant_Blu_Grand_Center_points_00000165193046234164827440000011152450024557008283_">
+			<path fill="#333333" d="M229.635,137.254c0,2.955-2.395,5.35-5.35,5.35c-2.955,0-5.35-2.395-5.35-5.35s2.395-5.35,5.35-5.35
+				C227.24,131.904,229.635,134.299,229.635,137.254z"/>
+			<path fill="#333333" d="M220.123,142.01c0,2.955-2.395,5.35-5.35,5.35c-2.955,0-5.35-2.395-5.35-5.35
+				c0-2.955,2.395-5.35,5.35-5.35C217.728,136.66,220.123,139.055,220.123,142.01z"/>
+			<path fill="#333333" d="M224.285,138.443c0,2.955-2.395,5.35-5.35,5.35c-2.955,0-5.35-2.395-5.35-5.35
+				c0-2.955,2.395-5.35,5.35-5.35C221.889,133.093,224.285,135.488,224.285,138.443z"/>
+			<path id="_x32_15_Feet_of_Love_point_00000086674189288302719010000005859206036073902752_" fill="#333333" d="M249.847,139.038
+				c0,2.955-2.395,5.35-5.35,5.35c-2.955,0-5.35-2.395-5.35-5.35c0-2.955,2.395-5.35,5.35-5.35
+				C247.452,133.687,249.847,136.083,249.847,139.038z"/>
+			<g display="none">
+				
+					<text transform="matrix(1 0 0 1 213.2694 155.3856)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">2</text>
+				
+					<text transform="matrix(1 0 0 1 218.0121 155.3856)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">1</text>
+				
+					<text transform="matrix(1 0 0 1 222.7543 155.3856)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">5</text>
+				
+					<text transform="matrix(1 0 0 1 227.4969 155.3856)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px"> </text>
+				<text transform="matrix(1 0 0 1 229.87 155.3856)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">F</text>
+				
+					<text transform="matrix(1 0 0 1 233.7997 155.3856)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">e</text>
+				
+					<text transform="matrix(1 0 0 1 238.1117 155.3856)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">e</text>
+				
+					<text transform="matrix(1 0 0 1 242.3827 155.3856)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">t</text>
+				
+					<text transform="matrix(1 0 0 1 245.0282 155.3856)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px"> </text>
+				
+					<text transform="matrix(1 0 0 1 247.4012 155.3856)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">o</text>
+				
+					<text transform="matrix(1 0 0 1 251.7211 155.3856)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">f</text>
+				<text transform="matrix(1 0 0 1 254.119 155.3856)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px"> </text>
+				
+					<text transform="matrix(1 0 0 1 256.4921 155.3856)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">L</text>
+				
+					<text transform="matrix(1 0 0 1 260.6371 155.3856)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">o</text>
+				
+					<text transform="matrix(1 0 0 1 265.0057 155.3856)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">v</text>
+				
+					<text transform="matrix(1 0 0 1 268.7606 155.3856)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">e</text>
+			</g>
+			
+				<text transform="matrix(1 0 0 1 213.2694 155.3856)" display="none" fill="none" stroke="#F2F3F0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" font-family="'ArialMT'" font-size="8.3227px">215 Feet of Love</text>
+			
+				<text transform="matrix(1 0 0 1 213.2694 155.3856)" display="none" fill="#333333" font-family="'ArialMT'" font-size="8.3227px">215 Feet of Love</text>
+			<path id="Augment_Reality_point_00000108309739006878582800000009340896990824230839_" fill="#333333" d="M233.202,149.144
+				c0,2.955-2.395,5.35-5.35,5.35c-2.955,0-5.35-2.395-5.35-5.35c0-2.955,2.395-5.35,5.35-5.35
+				C230.806,143.793,233.202,146.189,233.202,149.144z"/>
+			<g display="none">
+				
+					<text transform="matrix(1 0 0 1 192.6962 165.4921)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">A</text>
+				
+					<text transform="matrix(1 0 0 1 197.4388 165.4921)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">u</text>
+				
+					<text transform="matrix(1 0 0 1 201.8924 165.4921)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">g</text>
+				
+					<text transform="matrix(1 0 0 1 206.1634 165.4921)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">m</text>
+				
+					<text transform="matrix(1 0 0 1 213.0028 165.4921)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">e</text>
+				
+					<text transform="matrix(1 0 0 1 217.3148 165.4921)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">n</text>
+				
+					<text transform="matrix(1 0 0 1 221.7767 165.4921)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">t</text>
+				
+					<text transform="matrix(1 0 0 1 224.4222 165.4921)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">e</text>
+				
+					<text transform="matrix(1 0 0 1 228.7342 165.4921)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">d</text>
+				
+					<text transform="matrix(1 0 0 1 233.1434 165.4921)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px"> </text>
+				
+					<text transform="matrix(1 0 0 1 235.5165 165.4921)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">R</text>
+				
+					<text transform="matrix(1 0 0 1 240.7953 165.4921)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">e</text>
+				
+					<text transform="matrix(1 0 0 1 245.1073 165.4921)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">a</text>
+				
+					<text transform="matrix(1 0 0 1 249.3617 165.4921)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">l</text>
+				
+					<text transform="matrix(1 0 0 1 251.2757 165.4921)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">i</text>
+				
+					<text transform="matrix(1 0 0 1 253.1898 165.4921)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">t</text>
+				
+					<text transform="matrix(1 0 0 1 255.8353 165.4921)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">y</text>
+			</g>
+			
+				<text transform="matrix(1 0 0 1 192.6962 165.4921)" display="none" fill="none" stroke="#F2F3F0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" font-family="'ArialMT'" font-size="8.3227px">Augmented Reality</text>
+			
+				<text transform="matrix(1 0 0 1 192.6962 165.4921)" display="none" fill="#333333" font-family="'ArialMT'" font-size="8.3227px">Augmented Reality</text>
+		</g>
+		<g id="Neighborhood_2_00000028325095165441887280000016213844759296597132_">
+			<path fill="#E23E2E" d="M220.242,89.696c0,4.334-3.513,7.847-7.847,7.847c-4.334,0-7.847-3.513-7.847-7.847
+				c0-4.334,3.513-7.847,7.847-7.847C216.729,81.849,220.242,85.362,220.242,89.696z"/>
+			
+				<text transform="matrix(1 0 0 1 209.0809 94.0282)" display="none" fill="#FFFFFF" font-family="'NYTFranklin-Bold'" font-size="12px">2</text>
+		</g>
+	</g>
+	<g id="Forest_Park_Southeast_neighborhood_00000107588847105752239100000016583079902169568390_">
+		<g id="Forest_Park_Southeast_boundary_00000099637711167107723700000009321007280595950751_">
+			<path id="m14_00000183231664735116431920000008315044555448064424_" fill-opacity="0.2" d="M143.766,186.707l-0.769,0.803
+				l-1.63,1.728l-3.037,3.65l-3.29,3.875l-3.219,3.739l-1.353,1.659l-1.471,1.985l-0.73,1.129l-1.267,1.871l-2.35,2.453
+				l-0.727,0.705l-5.431,4.805l-21.421,17.276l-4.645,4.572l-4.506,4.436l-4.414,4.713l-2.497,2.688l-10.818,11.972l-15.305,17.356
+				l-8.917,9.533l-0.585,0.666l-1.036-0.075l-3.576-0.163l-4.526-0.059l-7.796,0.079l-3.107,0.133l-4.999,0.147l-3.959,0.172
+				l-3.771,0.167l-5.27,0.267l2.526-16.034l6.299-39.907l2.58-19.664l0.249-2.192l0.353-3.351l0.085-1.265l-0.296-2.068
+				l-0.567-2.015l-0.848-2.159l-3.858-7.983l0.925-0.452l1.584-0.741l2.15-0.989l0.971-0.436l1.465-0.636l1.24-0.484l1.44-0.511
+				l1.499-0.497l1.326-0.398l1.214-0.315l1.177-0.253l1.787-0.319l1.735-0.221l1.761-0.167l1.639-0.102l2.321-0.011l0.948,0.073
+				l1.366,0.11l1.115,0.156l0.776,0.116l0.298,0.051l1.538,0.357l0.709,0.165l1.536,0.39l1.673,0.483l1.822,0.593l1.034,0.366
+				l1.156,0.428l1.293,0.499l1.375,0.541l1.368,0.547l1.291,0.523l1.144,0.468l1.009,0.409l0.866,0.348l1.156,0.442l1.661,0.564
+				l1.725,0.481l1.634,0.349l1.333,0.238l1.29,0.175l0.932,0.083l1.21,0.045l3.126-0.026l1.762-0.152l1.175-0.212l0.566-0.122
+				l4.303-1.016l1.236-0.275l2.046-0.327l2.448-0.229l3.006-0.129l2.141,0.019l2.982,0.277l1.837,0.148l1.631,0.109l2.163,0.149
+				l2.279,0.147l0.843,0.037l1.407,0l1.071-0.1l1.824-0.274l0.994-0.154l3.356-0.726l4.387-1.024l6.602-1.643l19.954-4.818
+				L143.766,186.707z"/>
+			
+				<path id="m14extraline_00000008115664050098900270000008296331114369732266_" fill="none" stroke="#888888" stroke-linecap="round" stroke-linejoin="round" d="
+				M143.766,186.707l-0.769,0.803l-1.63,1.728l-3.037,3.65l-3.29,3.875l-3.219,3.739l-1.353,1.659l-1.471,1.985l-0.73,1.129
+				l-1.267,1.871l-2.35,2.453l-0.727,0.705l-5.431,4.805l-21.421,17.276l-4.645,4.572l-4.506,4.436l-4.414,4.713l-2.497,2.688
+				l-10.818,11.972l-15.305,17.356l-8.917,9.533l-0.585,0.666l-1.036-0.075l-3.576-0.163l-4.526-0.059l-7.796,0.079l-3.107,0.133
+				l-4.999,0.147l-3.959,0.172l-3.771,0.167l-5.27,0.267l2.526-16.034l6.299-39.907l2.58-19.664l0.249-2.192l0.353-3.351
+				l0.085-1.265l-0.296-2.068l-0.567-2.015l-0.848-2.159l-3.858-7.983l0.925-0.452l1.584-0.741l2.15-0.989l0.971-0.436l1.465-0.636
+				l1.24-0.484l1.44-0.511l1.499-0.497l1.326-0.398l1.214-0.315l1.177-0.253l1.787-0.319l1.735-0.221l1.761-0.167l1.639-0.102
+				l2.321-0.011l0.948,0.073l1.366,0.11l1.115,0.156l0.776,0.116l0.298,0.051l1.538,0.357l0.709,0.165l1.536,0.39l1.673,0.483
+				l1.822,0.593l1.034,0.366l1.156,0.428l1.293,0.499l1.375,0.541l1.368,0.547l1.291,0.523l1.144,0.468l1.009,0.409l0.866,0.348
+				l1.156,0.442l1.661,0.564l1.725,0.481l1.634,0.349l1.333,0.238l1.29,0.175l0.932,0.083l1.21,0.045l3.126-0.026l1.762-0.152
+				l1.175-0.212l0.566-0.122l4.303-1.016l1.236-0.275l2.046-0.327l2.448-0.229l3.006-0.129l2.141,0.019l2.982,0.277l1.837,0.148
+				l1.631,0.109l2.163,0.149l2.279,0.147l0.843,0.037l1.407,0l1.071-0.1l1.824-0.274l0.994-0.154l3.356-0.726l4.387-1.024
+				l6.602-1.643l19.954-4.818L143.766,186.707z"/>
+		</g>
+		<g id="Forest_Park_Southeast_label_00000103953521596271822080000010960995093169790379_">
+			<g display="none">
+				<text transform="matrix(1 0 0 1 9.8895 267.3241)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">F</text>
+				<text transform="matrix(1 0 0 1 15.6844 267.3241)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">o</text>
+				<text transform="matrix(1 0 0 1 22.1063 267.3241)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">r</text>
+				<text transform="matrix(1 0 0 1 26.8114 267.3241)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">e</text>
+				<text transform="matrix(1 0 0 1 33.0399 267.3241)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">s</text>
+				<text transform="matrix(1 0 0 1 38.577 267.3241)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">t</text>
+				<text transform="matrix(1 0 0 1 42.8954 267.3241)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px"> </text>
+				<text transform="matrix(1 0 0 1 46.3172 267.3241)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">P</text>
+				<text transform="matrix(1 0 0 1 53.4129 267.3241)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">a</text>
+				<text transform="matrix(1 0 0 1 59.5946 267.3241)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">r</text>
+				<text transform="matrix(1 0 0 1 64.2997 267.3241)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">k</text>
+				<text transform="matrix(1 0 0 1 70.6219 267.3241)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px"> </text>
+				<text transform="matrix(1 0 0 1 74.0438 267.3241)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">S</text>
+				<text transform="matrix(1 0 0 1 81.409 267.3241)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">o</text>
+				<text transform="matrix(1 0 0 1 87.8309 267.3241)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">u</text>
+				<text transform="matrix(1 0 0 1 94.4696 267.3241)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">t</text>
+				<text transform="matrix(1 0 0 1 98.7879 267.3241)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">h</text>
+				<text transform="matrix(1 0 0 1 105.4266 267.3241)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">e</text>
+				<text transform="matrix(1 0 0 1 111.6551 267.3241)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">a</text>
+				<text transform="matrix(1 0 0 1 117.8368 267.3241)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">s</text>
+				<text transform="matrix(1 0 0 1 123.3739 267.3241)" display="inline" font-family="'NYTFranklin-Bold'" font-size="12px">t</text>
+			</g>
+			
+				<text transform="matrix(1 0 0 1 9.8895 267.3241)" display="none" fill="none" stroke="#F2F3F0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" font-family="'ArialMT'" font-size="8.3227px">Forest Park Southeast</text>
+			<text transform="matrix(1 0 0 1 9.8895 267.3241)" display="none" fill="#333333" font-family="'ArialMT'" font-size="8.3227px">Forest Park Southeast</text>
+		</g>
+		<g id="Forest_Park_Southeast_points_00000003800132768632126010000017158224538116076172_">
+			<path fill="#333333" d="M114.306,207.997c0,2.955-2.395,5.35-5.35,5.35s-5.35-2.395-5.35-5.35c0-2.955,2.395-5.35,5.35-5.35
+				S114.306,205.042,114.306,207.997z"/>
+			<path fill="#333333" d="M97.661,221.076c0,2.955-2.395,5.35-5.35,5.35c-2.955,0-5.35-2.395-5.35-5.35
+				c0-2.955,2.395-5.35,5.35-5.35C95.266,215.725,97.661,218.121,97.661,221.076z"/>
+			<path fill="#333333" d="M75.665,224.642c0,2.955-2.395,5.35-5.35,5.35c-2.955,0-5.35-2.395-5.35-5.35
+				c0-2.955,2.395-5.35,5.35-5.35C73.27,219.292,75.665,221.688,75.665,224.642z"/>
+			<path fill="#333333" d="M70.909,222.265c0,2.955-2.395,5.35-5.35,5.35c-2.955,0-5.35-2.395-5.35-5.35
+				c0-2.955,2.395-5.35,5.35-5.35C68.514,216.914,70.909,219.31,70.909,222.265z"/>
+			<path fill="#333333" d="M85.771,223.453c0,2.955-2.395,5.35-5.35,5.35s-5.35-2.395-5.35-5.35s2.395-5.35,5.35-5.35
+				S85.771,220.499,85.771,223.453z"/>
+			<path fill="#333333" d="M89.933,219.887c0,2.955-2.395,5.35-5.35,5.35c-2.955,0-5.35-2.395-5.35-5.35
+				c0-2.955,2.395-5.35,5.35-5.35C87.537,214.536,89.933,216.932,89.933,219.887z"/>
+			<path fill="#333333" d="M90.527,221.67c0,2.955-2.395,5.35-5.35,5.35s-5.35-2.395-5.35-5.35s2.395-5.35,5.35-5.35
+				S90.527,218.715,90.527,221.67z"/>
+			<path fill="#333333" d="M108.362,217.509c0,2.955-2.395,5.35-5.35,5.35s-5.35-2.395-5.35-5.35c0-2.955,2.395-5.35,5.35-5.35
+				S108.362,214.554,108.362,217.509z"/>
+			<path fill="#333333" d="M99.444,221.67c0,2.955-2.395,5.35-5.35,5.35c-2.955,0-5.35-2.395-5.35-5.35s2.395-5.35,5.35-5.35
+				C97.049,216.32,99.444,218.715,99.444,221.67z"/>
+			<path fill="#333333" d="M103.011,219.887c0,2.955-2.395,5.35-5.35,5.35s-5.35-2.395-5.35-5.35c0-2.955,2.395-5.35,5.35-5.35
+				S103.011,216.932,103.011,219.887z"/>
+			<path fill="#333333" d="M98.85,220.481c0,2.955-2.395,5.35-5.35,5.35s-5.35-2.395-5.35-5.35c0-2.955,2.395-5.35,5.35-5.35
+				S98.85,217.526,98.85,220.481z"/>
+			<path fill="#333333" d="M92.311,220.481c0,2.955-2.395,5.35-5.35,5.35s-5.35-2.395-5.35-5.35c0-2.955,2.395-5.35,5.35-5.35
+				S92.311,217.526,92.311,220.481z"/>
+			<path fill="#333333" d="M94.094,222.265c0,2.955-2.395,5.35-5.35,5.35s-5.35-2.395-5.35-5.35c0-2.955,2.395-5.35,5.35-5.35
+				S94.094,219.31,94.094,222.265z"/>
+			<path id="Black_Cat_Firecracker_Pizza_point_00000019639642948913031730000015727274519112852407_" fill="#333333" d="
+				M100.633,220.481c0,2.955-2.395,5.35-5.35,5.35c-2.955,0-5.35-2.395-5.35-5.35c0-2.955,2.395-5.35,5.35-5.35
+				C98.238,215.131,100.633,217.526,100.633,220.481z"/>
+			<g display="none">
+				<text transform="matrix(1 0 0 1 44.1786 236.829)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">B</text>
+				<text transform="matrix(1 0 0 1 49.4374 236.829)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">l</text>
+				<text transform="matrix(1 0 0 1 51.3514 236.829)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">a</text>
+				<text transform="matrix(1 0 0 1 55.6058 236.829)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">c</text>
+				<text transform="matrix(1 0 0 1 59.6171 236.829)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">k</text>
+				<text transform="matrix(1 0 0 1 63.6605 236.829)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px"> </text>
+				<text transform="matrix(1 0 0 1 65.786 236.829)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">C</text>
+				<text transform="matrix(1 0 0 1 70.9061 236.829)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">a</text>
+				<text transform="matrix(1 0 0 1 75.1288 236.829)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">t</text>
+				<text transform="matrix(1 0 0 1 77.7743 236.829)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px"> </text>
+				<text transform="matrix(1 0 0 1 80.1473 236.829)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">F</text>
+				<text transform="matrix(1 0 0 1 84.6175 236.829)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">i</text>
+				<text transform="matrix(1 0 0 1 86.5316 236.829)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">r</text>
+				<text transform="matrix(1 0 0 1 89.368 236.829)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">e</text>
+				<text transform="matrix(1 0 0 1 93.68 236.829)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">c</text>
+				<text transform="matrix(1 0 0 1 97.6908 236.829)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">r</text>
+				<text transform="matrix(1 0 0 1 100.4706 236.829)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">a</text>
+				<text transform="matrix(1 0 0 1 104.7254 236.829)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">c</text>
+				<text transform="matrix(1 0 0 1 108.7362 236.829)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">k</text>
+				<text transform="matrix(1 0 0 1 112.7796 236.829)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">e</text>
+				<text transform="matrix(1 0 0 1 117.0912 236.829)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">r</text>
+				<text transform="matrix(1 0 0 1 119.9281 236.829)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px"> </text>
+				<text transform="matrix(1 0 0 1 122.3011 236.829)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">P</text>
+				<text transform="matrix(1 0 0 1 127.2713 236.829)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">i</text>
+				<text transform="matrix(1 0 0 1 129.1854 236.829)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">z</text>
+				<text transform="matrix(1 0 0 1 132.6962 236.829)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">z</text>
+				<text transform="matrix(1 0 0 1 136.1507 236.829)" display="inline" font-family="'NYTFranklin-Medium'" font-size="8.3227px">a</text>
+			</g>
+			
+				<text transform="matrix(1 0 0 1 44.1786 236.829)" display="none" fill="none" stroke="#F2F3F0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" font-family="'ArialMT'" font-size="8.3227px">Black Cat Firecracker Pizza</text>
+			<g display="none">
+				
+					<text transform="matrix(1 0 0 1 44.1786 236.829)" display="inline" fill="#333333" font-family="'NYTFranklin-Medium'" font-size="8.3227px">B</text>
+				
+					<text transform="matrix(1 0 0 1 49.4374 236.829)" display="inline" fill="#333333" font-family="'NYTFranklin-Medium'" font-size="8.3227px">l</text>
+				
+					<text transform="matrix(1 0 0 1 51.3514 236.829)" display="inline" fill="#333333" font-family="'NYTFranklin-Medium'" font-size="8.3227px">a</text>
+				
+					<text transform="matrix(1 0 0 1 55.6058 236.829)" display="inline" fill="#333333" font-family="'NYTFranklin-Medium'" font-size="8.3227px">c</text>
+				
+					<text transform="matrix(1 0 0 1 59.6171 236.829)" display="inline" fill="#333333" font-family="'NYTFranklin-Medium'" font-size="8.3227px">k</text>
+				
+					<text transform="matrix(1 0 0 1 63.6605 236.829)" display="inline" fill="#333333" font-family="'NYTFranklin-Medium'" font-size="8.3227px"> </text>
+				
+					<text transform="matrix(1 0 0 1 65.786 236.829)" display="inline" fill="#333333" font-family="'NYTFranklin-Medium'" font-size="8.3227px">C</text>
+				
+					<text transform="matrix(1 0 0 1 70.9061 236.829)" display="inline" fill="#333333" font-family="'NYTFranklin-Medium'" font-size="8.3227px">a</text>
+				
+					<text transform="matrix(1 0 0 1 75.1288 236.829)" display="inline" fill="#333333" font-family="'NYTFranklin-Medium'" font-size="8.3227px">t</text>
+				
+					<text transform="matrix(1 0 0 1 77.7743 236.829)" display="inline" fill="#333333" font-family="'NYTFranklin-Medium'" font-size="8.3227px"> </text>
+				
+					<text transform="matrix(1 0 0 1 80.1473 236.829)" display="inline" fill="#333333" font-family="'NYTFranklin-Medium'" font-size="8.3227px">F</text>
+				
+					<text transform="matrix(1 0 0 1 84.6175 236.829)" display="inline" fill="#333333" font-family="'NYTFranklin-Medium'" font-size="8.3227px">i</text>
+				
+					<text transform="matrix(1 0 0 1 86.5316 236.829)" display="inline" fill="#333333" font-family="'NYTFranklin-Medium'" font-size="8.3227px">r</text>
+				
+					<text transform="matrix(1 0 0 1 89.368 236.829)" display="inline" fill="#333333" font-family="'NYTFranklin-Medium'" font-size="8.3227px">e</text>
+				
+					<text transform="matrix(1 0 0 1 93.68 236.829)" display="inline" fill="#333333" font-family="'NYTFranklin-Medium'" font-size="8.3227px">c</text>
+				
+					<text transform="matrix(1 0 0 1 97.6908 236.829)" display="inline" fill="#333333" font-family="'NYTFranklin-Medium'" font-size="8.3227px">r</text>
+				
+					<text transform="matrix(1 0 0 1 100.4706 236.829)" display="inline" fill="#333333" font-family="'NYTFranklin-Medium'" font-size="8.3227px">a</text>
+				
+					<text transform="matrix(1 0 0 1 104.7254 236.829)" display="inline" fill="#333333" font-family="'NYTFranklin-Medium'" font-size="8.3227px">c</text>
+				
+					<text transform="matrix(1 0 0 1 108.7362 236.829)" display="inline" fill="#333333" font-family="'NYTFranklin-Medium'" font-size="8.3227px">k</text>
+				
+					<text transform="matrix(1 0 0 1 112.7796 236.829)" display="inline" fill="#333333" font-family="'NYTFranklin-Medium'" font-size="8.3227px">e</text>
+				
+					<text transform="matrix(1 0 0 1 117.0912 236.829)" display="inline" fill="#333333" font-family="'NYTFranklin-Medium'" font-size="8.3227px">r</text>
+				
+					<text transform="matrix(1 0 0 1 119.9281 236.829)" display="inline" fill="#333333" font-family="'NYTFranklin-Medium'" font-size="8.3227px"> </text>
+				
+					<text transform="matrix(1 0 0 1 122.3011 236.829)" display="inline" fill="#333333" font-family="'NYTFranklin-Medium'" font-size="8.3227px">P</text>
+				
+					<text transform="matrix(1 0 0 1 127.2713 236.829)" display="inline" fill="#333333" font-family="'NYTFranklin-Medium'" font-size="8.3227px">i</text>
+				
+					<text transform="matrix(1 0 0 1 129.1854 236.829)" display="inline" fill="#333333" font-family="'NYTFranklin-Medium'" font-size="8.3227px">z</text>
+				
+					<text transform="matrix(1 0 0 1 132.6962 236.829)" display="inline" fill="#333333" font-family="'NYTFranklin-Medium'" font-size="8.3227px">z</text>
+				
+					<text transform="matrix(1 0 0 1 136.1507 236.829)" display="inline" fill="#333333" font-family="'NYTFranklin-Medium'" font-size="8.3227px">a</text>
+			</g>
+		</g>
+		<g id="Neighborhood_3_00000168800655672131568410000002819509842453192379_">
+			<path fill="#E23E2E" d="M59.139,247.233c0,4.334-3.513,7.847-7.847,7.847s-7.847-3.513-7.847-7.847
+				c0-4.334,3.513-7.847,7.847-7.847S59.139,242.899,59.139,247.233z"/>
+			
+				<text transform="matrix(1 0 0 1 48.5721 251.5653)" display="none" fill="#FFFFFF" font-family="'NYTFranklin-Bold'" font-size="12px">3</text>
+		</g>
+	</g>
+</g>
+<style>
+#g-route-full-4-Artboard_9-interactions-img rect, #g-route-full-4-Artboard_9-interactions-img circle, #g-route-full-4-Artboard_9-interactions-img path, #g-route-full-4-Artboard_9-interactions-img line, #g-route-full-4-Artboard_9-interactions-img polyline, #g-route-full-4-Artboard_9-interactions-img polygon { vector-effect: non-scaling-stroke; }
+</style>
+</svg>
+

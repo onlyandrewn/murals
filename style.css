@@ -44,23 +44,23 @@ body {
 }
 
 .background {
-    background: #000;
-    height: 75vh;
-    width: 100vw;
     display: flex;
     justify-content: center;
     background: url("image.jpeg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
+    position: relative;
+    height: 75vh;
+    width: 100vw;
 }
 
 .background__image {
     position: fixed;
     z-index: -1;
     top: 0;
-    height: 75vh;
-    width: 100vw;
+    /* height: 75vh;
+    width: 100vw; */
 }
 
 .background__inner {
@@ -68,6 +68,20 @@ body {
     align-items: center;
     width: 1200px;
     max-width: calc(100% - 100px);
+}
+
+.background__overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: #000;
+    height: 100%;
+    width: 100%;
+    opacity: 0.3;
+}
+
+.background__group {
+    z-index: 999;
 }
 
 h1 {
@@ -80,6 +94,9 @@ h1 {
     color: #fff;
     max-width: 650px;
     text-transform: uppercase;
+    width: 520px;
+    /* background: #000;
+    padding: 16px; */
 }
 
 h2 {
@@ -105,7 +122,8 @@ h2 {
 }
 
 .header__group {
-    margin-top: 100px;
+    margin-top: 60px;
+    /* margin-top: 100px; */
     padding-left: 5vw;
     padding-right: 5vw;
 }
@@ -118,10 +136,11 @@ h3 {
     /* font-size: 23.8px;
     line-height: 33.32px; */
     font-family: "Franklin-Bold";    
-    font-size: 18px;
+    font-size: 25px;
     line-height: 24px;
     margin: 0;
-    margin-bottom: 4px;
+    margin-top: 40px;
+    /* margin-bottom: 4px; */
     /* line-height: 23.1px; */
     /* margin-top: 0; */
     /* margin-bottom: 10px; */
@@ -170,7 +189,7 @@ a:hover {
     text-decoration: none;
 }
 
-.opening .article__text::first-letter {
+.opening .article__text:first-child::first-letter {
     font-family: "Cheltenham-Cond-Bold";
 
     font-size: 99px;
@@ -178,7 +197,7 @@ a:hover {
     font-weight: 700;
     line-height: 0.75;
     margin-right: 13px;
-    margin-top: 24px;
+    margin-top: 16px;
     margin-bottom: -1px;
 }
 
@@ -198,18 +217,16 @@ a:hover {
     border: none;
 }
 
-.article__text:last-child {
-    /* margin-bottom: 15px;
-    padding-top: 15px; */
-
-}
-
 .content {
     /* max-width: 760px; */
     max-width: 600px;
     margin: 0 auto;
     padding-left: 5vw;
     padding-right: 5vw;
+}
+
+.content__group {
+    margin-top: 25px;
 }
 
 .label {
@@ -230,6 +247,8 @@ a:hover {
     /* line-height: 16px; */
     /* margin-bottom: 8px; */
     /* margin-bottom: 20px; */
+    /* background: #000;
+    padding: 16px; */
 }
 
 .subhed {
@@ -288,6 +307,9 @@ img {
     text-align: left;
     font-size: 15px;
     max-width: 720px;
+}
+
+.image__caption-top {
     padding-left: 5vw;
     padding-right: 5vw;
 }
@@ -338,17 +360,46 @@ iframe {
 }
 
 .grid {
-    border: 1px solid red;
+    /* border: 1px solid red; */
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    height: 150px;
+    /* height: 150px; */
+    max-width: 945px;
+    margin: 0 auto;
+    margin-top: 48px;
+    margin-bottom: 48px;
+    /* display: none; */
 }
 
 .grid-item {
-    border: 1px solid blue;
+    text-align: center;
+    margin: 0 auto;
+    /* border: 1px solid blue; */
+    /* display: grid; */
+    /* grid-template-columns: 100px 1fr; */
 }
 
-.grid-item p {
+.grid-map {
+    /* height: 150px; */
+    width: 150px;
+    /* background: grey; */
+    margin-left: 15px;
+    margin: 0 auto;
+}
+
+.grid-label {
+    font-size: 14px;
+    letter-spacing: 1.25px;
+    font-weight: 700;
+    font-family: "Franklin-Bold";
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    color: #e23e2e;
+}
+
+.grid-neigh {
     font-size: 28px;
     font-family: "Cheltenham-Cond-Bold";
     font-weight: 700;
@@ -356,8 +407,21 @@ iframe {
     letter-spacing: -0.25px;
     line-height: 1.1;
     width: 100%;
-    margin-top: 0px;
     margin-bottom: 0px;
+    margin-top: 0;
+}
+
+.info-box {}
+
+.info {
+    border: 1px solid #000;
+    display: grid;
+    width: 150px;
+    display: none;
+}
+
+.info-img {
+    width: 50px;
 }
 
 /* SCROLLAMA */
@@ -372,8 +436,12 @@ iframe {
 article {
     position: relative;
     padding: 0;
-    max-width: 20rem;
+    /* max-width: 20rem; */
+    max-width: 30rem;
+    /* max-width: 945px; */
+    /* width: 945px; */
     margin: 0 auto;
+    /* display: none; */
 }
 
 figure {
@@ -390,7 +458,8 @@ figure {
 }
 
 figure p {
-    text-align: center;
+    /* border: 10px solid red; */
+    /* text-align: center;
     padding: 1rem;
     position: absolute;
     top: 50%;
@@ -400,13 +469,18 @@ figure p {
     transform: translate(-50%, -50%);
     font-size: 8rem;
     font-weight: 900;
-    color: #fff;
+    color: #fff; */
 }
 
 .step {
     margin: 0 auto 2rem auto;
-    color: #fff;
+    /* border: 2px solid red; */
+    /* height: 100vh; */
+    /* color: #fff; */
     background: none;
+    /* border: 1px solid red; */
+    display: grid;
+    align-items: center;
     /* background-color: rgba(0, 0, 0, 0.1); */
 
     /* max-width: 430px;
@@ -425,6 +499,52 @@ figure p {
     transform: translateY(-50%); */
 }
 
+.step .article__text {
+    background: #fff;
+}
+
+.group {
+    background: #fff;
+    padding: 15px;
+    border: 2px solid #ddd;
+    /* padding-top: 5px;
+    padding-bottom: 5px; */
+}
+
+.group span {
+    background: #ddd;
+    padding: 4px;
+    /* padding-left: 4px;
+    padding-right: 4px; */
+}
+
+.group span .circle {
+    background: #e23e2e;
+    border-radius: 50%;
+    padding: 6px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 14px;
+    position: relative;
+    top: -2px;
+}
+
+.group .image__caption {
+    margin-bottom: 0;
+}
+
+.group .image__caption span {
+    background: none;
+}
+
+.group .grid-label {
+    margin-top: 5px;
+}
+
+.group .article__text {
+    margin-bottom: 0;;
+}
+
 .step:last-child {
     margin-bottom: 0;
 }
@@ -435,12 +555,12 @@ figure p {
 }
 
 .step p {
-    text-align: center;
+    /* text-align: center;
     padding: 1rem;
     font-size: 1.5rem;
     background-color: #fff;
     color: #3b3b3b;
-    font-family: "Franklin-Regular";
+    font-family: "Franklin-Regular"; */
 }
 
 .code {
@@ -453,12 +573,23 @@ figure p {
     margin-bottom: 20px;
 }
 
+/* #g-route-full-3-Artboard_1 {
+    border: 1px solid red;
+    fill: red;
+    outline: red;
+} */
+
 /* @media (max-width: 1024px) {
     h1 {
         font-size: 40px;
         line-height: 44px;
     }
 } */
+
+.circle {
+    background: #e23e2e;
+    color: #fff;
+}
 
 @media (max-width: 945px) {
     .graphic__info,
@@ -473,10 +604,22 @@ figure p {
     h1 {
         font-size: 85px;
         line-height: 0.9;
+        width: 370px
     }
 
     h2 {
         font-size: 30px;
+    }
+
+    .grid {
+        grid-template-columns: 1fr;
+        grid-row-gap: 50px;
+    }
+}
+
+@media (max-width: 500px) {
+    main {
+        display: none;
     }
 }
 
